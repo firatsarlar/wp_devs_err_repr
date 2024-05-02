@@ -1,4 +1,3 @@
-Certainly! Below is a README template for your GitHub repository that outlines how to set up and use the repository to reproduce the issue with the Webpack Dev Server. You can adjust the content as necessary to better fit your project or specific instructions.
 
 ```markdown
 # Webpack Dev Server Accessibility Issue Reproduction
